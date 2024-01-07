@@ -37,12 +37,24 @@ ChatGPT https://chat.openai.com
 Questions to ask when planning to start a Service Management team
 ### Why are you thinking of implementing a Service Management function?
 
-To improve the handling, prevention, and reporting of IT incidents so as the reduce costs to the organization.
+- To improve the handling, prevention, and reporting of IT incidents so as the reduce costs to the organization.
 
 ### What are the goals of implementing or Starting Service Management
+
+- Starting a Service Management team can help improve support for IT Services, or start to baseline current standards for services.
+
 ### What services will be in scope of a Service Management function?
+
+- Critical infrastructure services that supprt customers should be in scope. Service Managers can communicate with customers and other stakeholders about major incidents and incident reporting, and follow up actions.
+
 ### Is there a service or services whose performance can be improved?
+
+- Business critical services that customers use should be checked for incident frequency and what if any root cause analysis trends have been checked.
+
 ### What will be the benefit of the improvement?
+
+- If an SLA isn't in effect, a Service Management program will allow an SLA level to be set. Customer satisfaction can be improved via reviewing current rate of incidents and improvements.
+
 ### What is the current state of the service or process?
 ### What is the impact of not having service management?
 ### What are the perceived downsides of implementing service management?
