@@ -2,7 +2,7 @@
 ## Planning ##
 ### What is Service Management?
 
-Do your research on ITIL Service Management by searching on the web via Google and other sites like YouTube. It is also known as ITSM.
+Do your research on ITIL Service Management by searching on the web via Google and other sites like YouTube. It is also known as ITSM. This repo is to propose ways to improve IT incident handling and prevention by incorporating conversations among stakeholders into the end-to-end process.
 
 YouTube https://www.youtube.com/results?search_query=what+is+IT+Service+Management%3F
 Wikipedia https://en.wikipedia.org/wiki/IT_service_management
@@ -15,7 +15,7 @@ ChatGPT https://chat.openai.com
 
 ### Audit of Current Processes to be in scope?
 
-- Plan and Design the Audit
+- Plan and Design the Audit of IT Incident Handling 
 	- Initiate Background Research
 	- Determine Objectives of the Audit
 	- Conduct Initiation Meeting
@@ -37,7 +37,7 @@ ChatGPT https://chat.openai.com
 Questions to ask when planning to start a Service Management team
 ### Why are you thinking of implementing a Service Management function?
 
-
+To improve the handling, prevention, and reporting of IT incidents so as the reduce costs to the organization.
 
 ### What are the goals of implementing or Starting Service Management
 ### What services will be in scope of a Service Management function?
