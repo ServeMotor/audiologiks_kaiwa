@@ -26,13 +26,15 @@ ChatGPT https://chat.openai.com
 	- Finalize Audit Plan
 	- Continue Data Collection and Analysis
 	- Determine Audit Findings
-	
+
 - Report Audit Results
 	- Review Findings
 	- Develop Draft Report
 	- Obtain Views on the Report
 	- Finalize Report
 
+
+Questions to ask when planning to start a Service Management team
 ### Why are you thinking of implementing a Service Management function?
 
 
