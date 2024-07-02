@@ -1,4 +1,4 @@
-Articles from the [website](https://audiologiks.zendesk.com),on Service Management.
+Articles from the Audiologiks.com [website](https://audiologiks.zendesk.com) on Service Management.
 
 For example, an article called, "Incident Report - Importance of Definitions and Communications"
 
